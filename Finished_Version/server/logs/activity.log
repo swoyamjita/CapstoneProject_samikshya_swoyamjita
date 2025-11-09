@@ -1,0 +1,22 @@
+[2025-11-09 10:50:20] Server started and listening for connections.
+[2025-11-09 10:55:14] Server started and listening for connections.
+[2025-11-09 10:56:05] New connection from ('127.0.0.1', 65499)
+[2025-11-09 10:56:05] User 'admin' authenticated successfully from ('127.0.0.1', 65499)
+[2025-11-09 10:56:15] Error handling client ('127.0.0.1', 65499): not enough values to unpack (expected 2, got 1)
+[2025-11-09 10:57:02] New connection from ('127.0.0.1', 65504)
+[2025-11-09 10:57:02] User 'admin' authenticated successfully from ('127.0.0.1', 65504)
+[2025-11-09 10:57:08] File 'sample1.txt' uploaded successfully by 'admin'
+[2025-11-09 15:54:54] Server started on 127.0.0.1:5005
+[2025-11-09 15:55:23] Failed login for admin from ('127.0.0.1', 50959)
+[2025-11-09 15:58:32] Failed login for admin from ('127.0.0.1', 65387)
+[2025-11-09 16:13:13] Server started on 127.0.0.1:5005
+[2025-11-09 16:14:29] Failed login for admin from ('127.0.0.1', 63719)
+[2025-11-09 16:18:09] Server started on 127.0.0.1:5005
+[2025-11-09 16:18:53] New connection from ('127.0.0.1', 59118)
+[2025-11-09 16:18:53] Authentication failed for admin
+[2025-11-09 16:18:53] Connection closed with ('127.0.0.1', 59118)
+[2025-11-09 16:19:50] New connection from ('127.0.0.1', 59125)
+[2025-11-09 16:19:50] Authentication failed for admin1
+[2025-11-09 16:19:50] Connection closed with ('127.0.0.1', 59125)
+[2025-11-09 16:33:14] admin logged in.
+[2025-11-09 16:36:36] admin logged in.
